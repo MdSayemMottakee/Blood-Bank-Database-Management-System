@@ -43,10 +43,10 @@ A robust and user-friendly web application designed to bridge the gap between bl
 
 3.  **Project Deployment:**
     *   Clone or download this repository.
-    *   Move the project folder to `C:\xampp\htdocs\` (if using XAMPP).
+    *   Move the project folder to your local server's root directory (e.g., `htdocs` for XAMPP or `www` for WAMP).
 
 4.  **Configuration:**
-    *   Edit [includes/config.php](file:///d:/CS Project/Blood-Bank-Database-Management-System/includes/config.php) to update your database credentials if different from default.
+    *   Edit `includes/config.php` to update your database credentials if different from default.
 
 5.  **Access:**
     *   User Portal: `http://localhost/Blood-Bank-Database-Management-System/index.php`
@@ -58,4 +58,4 @@ A robust and user-friendly web application designed to bridge the gap between bl
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](file:///d:/CS Project/Blood-Bank-Database-Management-System/LICENSE) file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
