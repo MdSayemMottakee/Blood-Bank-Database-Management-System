@@ -52,10 +52,6 @@ A robust and user-friendly web application designed to bridge the gap between bl
     *   User Portal: `http://localhost/Blood-Bank-Database-Management-System/index.php`
     *   Admin Portal: `http://localhost/Blood-Bank-Database-Management-System/admin/index.php`
 
-## 📸 Screenshots
-
-*(Add screenshots here after implementation)*
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
